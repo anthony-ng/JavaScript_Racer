@@ -1,0 +1,21 @@
+.racer_table td {
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+td {
+  background-color: yellow;
+}
+
+#racer1_strip td.active {
+  /*background-color: red;*/
+  background-image: url('http://wiiudaily.com/wp-content/uploads/2013/04/mario-kart.jpg');
+  background-size: 56px 56px;
+}
+
+#racer2_strip td.active {
+  /*background-color: red;*/
+  background-image: url('http://static.giantbomb.com/uploads/ignore_jpg_scale_small/9/95666/1910652-mario_kart_super_circuit.png');
+  background-size: 56px 56px;
+}
